@@ -1,0 +1,82 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/benja/OneDrive - Florida Polytechnic University/Classes 2021/Data Structures/Proj1/Course.h
+iostream
+-
+stdexcept
+-
+
+C:/Users/benja/OneDrive - Florida Polytechnic University/Classes 2021/Data Structures/Proj1/DNode.h
+Student.h
+C:/Users/benja/OneDrive - Florida Polytechnic University/Classes 2021/Data Structures/Proj1/Student.h
+
+C:/Users/benja/OneDrive - Florida Polytechnic University/Classes 2021/Data Structures/Proj1/DoubleLinkedList.h
+DNode.h
+C:/Users/benja/OneDrive - Florida Polytechnic University/Classes 2021/Data Structures/Proj1/DNode.h
+
+C:/Users/benja/OneDrive - Florida Polytechnic University/Classes 2021/Data Structures/Proj1/LinkedList.h
+Node.h
+C:/Users/benja/OneDrive - Florida Polytechnic University/Classes 2021/Data Structures/Proj1/Node.h
+Course.h
+C:/Users/benja/OneDrive - Florida Polytechnic University/Classes 2021/Data Structures/Proj1/Course.h
+
+C:/Users/benja/OneDrive - Florida Polytechnic University/Classes 2021/Data Structures/Proj1/Node.h
+iostream
+-
+stdexcept
+-
+Course.h
+C:/Users/benja/OneDrive - Florida Polytechnic University/Classes 2021/Data Structures/Proj1/Course.h
+
+C:/Users/benja/OneDrive - Florida Polytechnic University/Classes 2021/Data Structures/Proj1/Person.h
+iostream
+-
+stdexcept
+-
+
+C:/Users/benja/OneDrive - Florida Polytechnic University/Classes 2021/Data Structures/Proj1/Records.h
+iostream
+-
+stdexcept
+-
+DoubleLinkedList.h
+C:/Users/benja/OneDrive - Florida Polytechnic University/Classes 2021/Data Structures/Proj1/DoubleLinkedList.h
+Student.h
+C:/Users/benja/OneDrive - Florida Polytechnic University/Classes 2021/Data Structures/Proj1/Student.h
+
+C:/Users/benja/OneDrive - Florida Polytechnic University/Classes 2021/Data Structures/Proj1/Student.h
+iostream
+-
+stdexcept
+-
+LinkedList.h
+C:/Users/benja/OneDrive - Florida Polytechnic University/Classes 2021/Data Structures/Proj1/LinkedList.h
+Course.h
+C:/Users/benja/OneDrive - Florida Polytechnic University/Classes 2021/Data Structures/Proj1/Course.h
+Person.h
+C:/Users/benja/OneDrive - Florida Polytechnic University/Classes 2021/Data Structures/Proj1/Person.h
+
+C:/Users/benja/OneDrive - Florida Polytechnic University/Classes 2021/Data Structures/Proj1/main.cpp
+iostream
+-
+stdexcept
+-
+fstream
+-
+string
+-
+Person.h
+C:/Users/benja/OneDrive - Florida Polytechnic University/Classes 2021/Data Structures/Proj1/Person.h
+Course.h
+C:/Users/benja/OneDrive - Florida Polytechnic University/Classes 2021/Data Structures/Proj1/Course.h
+Student.h
+C:/Users/benja/OneDrive - Florida Polytechnic University/Classes 2021/Data Structures/Proj1/Student.h
+Records.h
+C:/Users/benja/OneDrive - Florida Polytechnic University/Classes 2021/Data Structures/Proj1/Records.h
+
